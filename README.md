@@ -90,8 +90,8 @@
 />
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="Swagger" 
+    title="Swagger"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/npm/swagger-ui-dist@3.25.0/favicon-32x32.png" 
