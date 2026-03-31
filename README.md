@@ -7,7 +7,7 @@
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="PWA" title="Progressive Web Apps" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pwa.svg" />
+<img align="left" alt="PWA" title="Progressive Web Apps" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/pwa/white" />
 
 <br/><br/>
 
@@ -21,6 +21,7 @@
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+<img align="left" alt="Express.js" title="Express.js" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=express" />
 
 <br/><br/>
 
